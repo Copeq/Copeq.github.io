@@ -1,14 +1,14 @@
 YL.static = {
   /** “关于”信息 */
-  softwareName: 'YLUI DEMO', //网站名。请在此处填写您自己的网站名，如王小明的博客。
-  version: "1.0.0", // 网站版本号
+  softwareName: 'Copeq Studio', //网站名。请在此处填写您自己的网站名，如王小明的博客。
+  version: "2.2.10", // 网站版本号
   iconBtnStart: 'html5', //主图标
-  author: 'null',//作者
-  contactInformation: 'null',//联系方式
-  officialWebsite: '//null',//软件官网
-  welcome: '本网站UI由 YLUI 强力驱动\n更多信息：//ylui.yuri2.cn',//加载完毕控制台提示信息
-  copyrightDetail: 'null',//版权详细信息
-  otherStatements: '',//其他信息（可留空）
+  author: 'Copeq',//作者
+  contactInformation: 'mcxbbs@163.com',//联系方式
+  officialWebsite: 'copeq.github.io',//软件官网
+  welcome: 'Fuck Shift!',//加载完毕控制台提示信息
+  copyrightDetail: 'Apache License 2.0',//版权详细信息
+  otherStatements: 'awa',//其他信息（可留空）
 
   /**————————————————————————————————————————————————————————————————————————————————————————————*/
   /** YLUI基础设置 */
@@ -25,7 +25,7 @@ YL.static = {
 
   /**————————————————————————————————————————————————————————————————————————————————————————————*/
   /** YLUI注册信息 */
-  authorization: '社区版',//授权类型
-  serialNumber: null,//序列号
+  authorization: 'Copeq Studio',//授权类型
+  serialNumber: WWW-XXX-EEE-YYY,//序列号
 
 };
